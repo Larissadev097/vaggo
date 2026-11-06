@@ -1,0 +1,14 @@
+# ambiente virtual
+.venv/
+
+# dados e segredos gerados pelo app (NUNCA versionar)
+instance/
+
+# cache do Python
+__pycache__/
+*.pyc
+
+# editores e sistema
+.idea/
+.vscode/
+.DS_Store

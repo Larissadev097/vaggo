@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <rect width="1600" height="1000" fill="#e4ebf7"/>
+  <!-- quarteirões -->
+  <g fill="#edf2fb">
+    <rect x="40" y="40" rx="14" width="330" height="210"/><rect x="430" y="40" rx="14" width="250" height="210"/>
+    <rect x="760" y="40" rx="14" width="300" height="210"/><rect x="1130" y="40" rx="14" width="430" height="210"/>
+    <rect x="40" y="320" rx="14" width="330" height="250"/><rect x="430" y="320" rx="14" width="250" height="250"/>
+    <rect x="760" y="320" rx="14" width="300" height="250"/><rect x="1130" y="320" rx="14" width="430" height="250"/>
+    <rect x="40" y="640" rx="14" width="330" height="320"/><rect x="430" y="640" rx="14" width="250" height="320"/>
+    <rect x="760" y="640" rx="14" width="300" height="320"/><rect x="1130" y="640" rx="14" width="430" height="320"/>
+  </g>
+  <!-- parques -->
+  <g fill="#d6eadf">
+    <rect x="450" y="340" rx="26" width="210" height="210"/>
+    <rect x="1150" y="660" rx="26" width="260" height="280"/>
+    <rect x="60" y="60" rx="26" width="170" height="150"/>
+  </g>
+  <!-- rio -->
+  <path d="M-20 820 C 250 740, 420 900, 700 800 S 1200 700, 1650 820" fill="none" stroke="#cfe0f6" stroke-width="64" stroke-linecap="round"/>
+  <!-- ruas -->
+  <g fill="none" stroke="#fff" stroke-linecap="round">
+    <path d="M0 285 H1600" stroke-width="26"/><path d="M0 605 H1600" stroke-width="26"/>
+    <path d="M400 0 V1000" stroke-width="24"/><path d="M720 0 V1000" stroke-width="24"/><path d="M1095 0 V1000" stroke-width="24"/>
+    <path d="M0 140 H1600" stroke-width="12"/><path d="M0 450 H1600" stroke-width="12"/><path d="M0 790 H1600" stroke-width="12" opacity=".0"/>
+    <path d="M250 0 V1000" stroke-width="10"/><path d="M910 0 V1000" stroke-width="10"/><path d="M1340 0 V1000" stroke-width="10"/>
+    <path d="M-50 980 L1650 120" stroke-width="18" opacity=".9"/>
+  </g>
+</svg>
